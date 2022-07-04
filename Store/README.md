@@ -1,6 +1,6 @@
 # Store of apps
 
-# Most popular games
+# Top game
 [Ro-o-bot](https://sapbot.github.io/Store/online/ro-o-bot/)
 
 # Platforms

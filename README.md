@@ -1,4 +1,5 @@
 # sapbot.github.io
-Very big site!
+I am SAPBOT!
+I like to create things:
 
 [Store](https://sapbot.github.io/Store/)
