@@ -2,5 +2,6 @@
 
 # Select Platform
 
-[Online](sapbot.github.io\Store\online)
-[Console](sapbot.github.io\Store\consoles)
+[Online](https://sapbot.github.io\Store\online)
+
+[Console](https://sapbot.github.io\Store\consoles)
