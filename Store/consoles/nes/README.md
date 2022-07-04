@@ -6,4 +6,4 @@ NES is the first 8-bit console in the world
 2.Famicom
 
 # Apps
-[Hello World! Script](https://sapbot.github.io/Store/consoles/nes)
+[Hello World! Script](https://sapbot.github.io/Store/consoles/nes/hello-world)
