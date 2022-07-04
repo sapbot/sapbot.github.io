@@ -1,0 +1,15 @@
+#Store of apps
+
+#Most popular games
+[Ro-o-bot](https://sapbot.github.io/Store/online/ro-o-bot/)
+
+#Platforms
+[Online](https://sapbot.github.io/Store/online/)
+[All Consoles](https://sapbot.github.io/Store/consoles/)
+
+#Consoles
+[Nintendo Enternaiment System](https://sapbot.github.io/Store/consoles/nes/)
+
+#All apps
+[Ro-o-bot](https://sapbot.github.io/Store/online/ro-o-bot/)
+[Hello World!](https://sapbot.github.io/Store/consoles/nes/hello-world/)
