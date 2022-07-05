@@ -11,8 +11,4 @@ go to this page!
 
 [sega.ru](https://sapbot.github.io/copy/sega-ru/)
 
-you can go to the other sites on your own
-
-For example:
-Really site:https://sega.ru/
-Copy: https://sapbot.github.io/copy/sega-ru/
+[project5792340.tilda.ws](https://sapbot.github.io/copy/project5792340-tilda-ws/)
