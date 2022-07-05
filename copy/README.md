@@ -4,3 +4,4 @@ go to this page!
 
 # Sites
 [roblox.com](https://sapbot.github.io/copy/roblox)
+[sony.ru](https://sapbot.github.io/copy/sonyru)
