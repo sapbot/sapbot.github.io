@@ -12,3 +12,5 @@ go to this page!
 [sega.ru](https://sapbot.github.io/copy/sega-ru/)
 
 [project5792340.tilda.ws](https://sapbot.github.io/copy/project5792340-tilda-ws/)
+
+[s7.kinogo.lu](https://sapbot.github.io/copy/kinogo/)
