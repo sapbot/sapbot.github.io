@@ -3,4 +3,4 @@ If site blocked
 go to this page!
 
 # Sites
-[roblox.com](/roblox/)
+[roblox.com](https://sapbot.github.io/copy/roblox)
