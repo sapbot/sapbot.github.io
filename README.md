@@ -11,3 +11,7 @@ I like to create things:
 [Copy of sites](https://sapbot.github.io/copy/)
 
 [Custom "music" Format](https://sapbot.github.io/music-format/)
+
+# FAQ
+- Where do you get icons for the site?
+- The icon is the last copied site
