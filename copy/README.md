@@ -9,7 +9,7 @@ go to this page!
 
 [hmpg.net](https://sapbot.github.io/copy/hmpgnet/)
 
-[sega.ru](https://sapbot.github.io/copy/sega-ru/)
+[sega.com](https://sapbot.github.io/copy/sega-com/)
 
 [project5792340.tilda.ws](https://sapbot.github.io/copy/project5792340-tilda-ws/)
 
